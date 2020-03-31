@@ -1,0 +1,16 @@
+premièrement pour commencer notre projet il faut installer intellij idea ou android studio ou visual studio … 
+puis installer dart et flutter dans notre machine, et au cours de réalisation de notre projet nous avons besoin d’installer
+ quelque dependicies comme  http pour utiliser reset api, shared preferences et google maps pour utilser la map.
+
+et pour utiliser notre application il faut créer  un compte 
+sinon si vous avez un compte se connecter directement 
+ on vous donne ci-dessous quelque email et mot de passe pour se connecter :
+
+admin : email: enell@efesbahi61.com
+        password : 1234567
+
+supper admin: email:root@gmail.com
+              password :root_root
+
+user : email : ilyas_nm@outlook.com
+       password : root123
